@@ -1,0 +1,17 @@
+熟练使用div+css进行页面排版布局；
+熟练掌握javascript；
+熟练使用jQuery类库；
+熟练掌握VueJS框架，实时数据绑定以及页面渲染；
+熟练掌握CSS3实现动画效果；
+熟练掌握响应式布局，基于HTML5的webApp开发以及各种手机移动端适配；
+熟练使用Photoshop制作效果图设计；
+熟悉MVVM模块化开发模式；
+熟悉前端性能优化处理；
+熟练使用chrome及firefox调试工具；
+熟练使用Photoshop制作效果图设计；
+熟练使用Webpack+Vue+ES6+Babel实现了模块化的开发；
+熟悉node.js的一些方法；
+掌握mySQL、mongoDB数据库增、删、改、查技术。
+掌握使用svn、git版本管理工具；
+掌握ES6一些新特性
+  
